@@ -1,0 +1,12 @@
+{
+  "realm": "microcap",
+  "auth-server-url": "http://15.188.34.216:8180/auth",
+  "ssl-required": "none",
+  "resource": "microcap_frontend",
+  "verify-token-audience": true,
+  "credentials": {
+    "secret": "3b5f757d-685f-40be-89af-98174b9d6a6d"
+  },
+  "use-resource-role-mappings": true,
+  "confidential-port": 0
+}
