@@ -1,0 +1,8 @@
+{
+  "realm": "microcap",
+  "auth-server-url": "http://15.188.34.216:8180/auth",
+  "ssl-required": "none",
+  "resource": "admin-cli",
+  "public-client": true,
+  "confidential-port": 0
+}
