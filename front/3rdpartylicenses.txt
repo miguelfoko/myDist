@@ -237,6 +237,8 @@ THE SOFTWARE.
 nebular-icons
 MIT
 
+ngx-bootstrap/datepicker
+
 ngx-pagination
 MIT
 The MIT License (MIT)
