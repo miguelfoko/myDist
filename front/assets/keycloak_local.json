@@ -1,0 +1,12 @@
+{
+  "realm": "microcap",
+  "auth-server-url": "http://localhost:8180/auth",
+  "ssl-required": "external",
+  "resource": "microcap_frontend",
+  "verify-token-audience": true,
+  "credentials": {
+    "secret": "5c4a4217-e94e-42ab-b6f6-dd083a88d459"
+  },
+  "use-resource-role-mappings": true,
+  "confidential-port": 0
+}
